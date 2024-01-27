@@ -1,0 +1,10 @@
+{
+  "name": "em-responsive-web-templates",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "em-scss-base-framework": "^1.0.1"
+  }
+}
