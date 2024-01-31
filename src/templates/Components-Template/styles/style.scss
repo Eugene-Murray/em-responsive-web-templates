@@ -1,5 +1,7 @@
-@import '../node_modules/em-scss-base-framework/base.scss';
+@import '../../../../node_modules/em-scss-base-framework/base.scss';
 
-// App styles
+// Component styles
+@import "./components/slideshow-carousel.scss";
+@import "./components/parallax-scrolling.scss";
 
 
