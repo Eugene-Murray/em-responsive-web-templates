@@ -5,6 +5,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "em-scss-base-framework": "^1.0.3"
+    "em-scss-base-framework": "^1.0.5"
   }
 }
