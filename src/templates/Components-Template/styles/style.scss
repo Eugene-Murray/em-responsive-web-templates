@@ -1,5 +1,9 @@
 @import '../../../../node_modules/em-scss-base-framework/base.scss';
 
+* {
+  font-size: large;
+}
+
 // Component styles
 @import "./components/slideshow-carousel.scss";
 @import "./components/parallax-scrolling.scss";
